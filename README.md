@@ -131,6 +131,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Labo, Camarines Norte               | [betterlabo.vercel.app](https://betterlabo.vercel.app)        | [GitHub](https://github.com/kiembully/betterlabo)                              | -                                                                                                                                                           | 🟡 Work in Progress    | [@kiembully](https://github.com/kiembully)                                                                                       |
 | Marikina City, Metro Manila         | -                                                             | [GitHub](https://github.com/BetterMarikina/bettermarikina)                     | -                                                                                                                                                           | 🟡 Work in Progress    | [@terddyy](https://github.com/terddyy)                                                                                           |
 | Morong, Rizal | [bettermorong.org](https://bettermorong.org/) | [GitHub](https://github.com/carlodandan/bettermorong) | [Facebook](https://facebook.com/bettermorong.org) | 🟡 Work in Progress | [@carlodandan](https://github.com/carlodandan) |
+| Aleosan, Cotabato | - | - | - | 🔵 Planned | [@regzimarx](https://github.com/regzimarx) |
 
 <!-- SYNC_LGU_TABLE_END -->
 
