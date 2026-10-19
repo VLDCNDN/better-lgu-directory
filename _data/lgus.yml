@@ -1257,3 +1257,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@hplarozner](https://github.com/hplarozner)"
+- name: "Labo, Camarines Norte"
+  domain: "[betterlabo.vercel.app](https://betterlabo.vercel.app)"
+  repo: "[GitHub](https://github.com/kiembully/betterlabo)"
+  repo_owner: "kiembully"
+  repo_name: "betterlabo"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@kiembully](https://github.com/kiembully)"
