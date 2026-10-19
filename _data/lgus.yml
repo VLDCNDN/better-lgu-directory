@@ -1123,10 +1123,12 @@
   open_for_adoption: false
   maintainer: "[@Kiko915](https://github.com/Kiko915), [@johnchristiancoronacion](https://github.com/johnchristiancoronacion)"
 - name: "Naguilian, La Union"
-  domain: "-"
-  repo: "-"
+  domain: "[betternaguilianlu.vercel.app](https://betternaguilianlu.vercel.app)"
+  repo: "[GitHub](https://github.com/baeyacorpuz/betternaguilianlu)"
+  repo_owner: "baeyacorpuz"
+  repo_name: "betternaguilianlu"
   socials: []
-  status: "🔵 Planned"
+  status: "🟡 Work in Progress"
   stale: false
   open_for_adoption: false
   maintainer: "[@baeyacorpuz](https://github.com/baeyacorpuz)"
