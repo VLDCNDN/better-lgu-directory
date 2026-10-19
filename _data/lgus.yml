@@ -1257,6 +1257,16 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@hplarozner](https://github.com/hplarozner)"
+- name: "Bagac, Bataan"
+  domain: "-"
+  repo: "[GitHub](https://github.com/betterbagac/betterbagac)"
+  repo_owner: "betterbagac"
+  repo_name: "betterbagac"
+  socials: []
+  status: "🔵 Planned"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@jmrec](https://github.com/jmrec)"
 - name: "Labo, Camarines Norte"
   domain: "[betterlabo.vercel.app](https://betterlabo.vercel.app)"
   repo: "[GitHub](https://github.com/kiembully/betterlabo)"
