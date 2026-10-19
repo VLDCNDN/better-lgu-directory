@@ -1310,3 +1310,16 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@regzimarx](https://github.com/regzimarx)"
+- name: "Marawi City, Lanao del Sur"
+  domain: "-"
+  repo: "[GitHub](https://github.com/mamangcao/bettermarawi)"
+  repo_owner: "mamangcao"
+  repo_name: "bettermarawi"
+  socials:
+    - platform: "facebook"
+      label: "Facebook"
+      url: "https://facebook.com/bettermarawi.org"
+  status: "🔵 Planned"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@mamangcao](https://github.com/mamangcao)"
