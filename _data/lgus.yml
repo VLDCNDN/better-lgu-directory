@@ -1277,3 +1277,16 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@terddyy](https://github.com/terddyy)"
+- name: "Morong, Rizal"
+  domain: "[bettermorong.org](https://bettermorong.org/)"
+  repo: "[GitHub](https://github.com/carlodandan/bettermorong)"
+  repo_owner: "carlodandan"
+  repo_name: "bettermorong"
+  socials:
+    - platform: "facebook"
+      label: "Facebook"
+      url: "https://facebook.com/bettermorong.org"
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@carlodandan](https://github.com/carlodandan)"
