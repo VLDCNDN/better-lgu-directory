@@ -1290,3 +1290,11 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@carlodandan](https://github.com/carlodandan)"
+- name: "Aleosan, Cotabato"
+  domain: "-"
+  repo: "-"
+  socials: []
+  status: "🔵 Planned"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@regzimarx](https://github.com/regzimarx)"
