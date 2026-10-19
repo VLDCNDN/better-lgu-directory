@@ -982,7 +982,7 @@
   open_for_adoption: false
   maintainer: "[@rswlljms](https://github.com/rswlljms)"
 - name: "Naic, Cavite"
-  domain: "-"
+  domain: "[betternaic.vercel.app](https://betternaic.vercel.app)"
   repo: "[GitHub](https://github.com/riecodes/betternaic)"
   repo_owner: "riecodes"
   repo_name: "betternaic"
@@ -990,7 +990,7 @@
     - platform: "facebook"
       label: "Facebook"
       url: "https://facebook.com/betternaic"
-  status: "🔵 Planned"
+  status: "🟢 Active"
   stale: false
   open_for_adoption: false
   maintainer: "[@rieCodes](https://github.com/rieCodes)"
