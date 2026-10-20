@@ -1162,7 +1162,7 @@
   open_for_adoption: false
   maintainer: "[@zenabus](https://github.com/zenabus)"
 - name: "City of Santa Rosa, Laguna"
-  domain: "[https://bettersantarosacity.pages.dev](https://bettersantarosacity.pages.dev)"
+  domain: "[bettersantarosacity.pages.dev](https://bettersantarosacity.pages.dev)"
   repo: "[GitHub](https://github.com/jericizon/bettersantarosacity)"
   repo_owner: "jericizon"
   repo_name: "bettersantarosacity"
