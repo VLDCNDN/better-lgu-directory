@@ -1458,3 +1458,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@jamez78](https://github.com/jamez78)"
+- name: "Pasay City, Metro Manila"
+  domain: "-"
+  repo: "[GitHub](https://github.com/slvdrvncntjvr/betterpasay)"
+  repo_owner: "slvdrvncntjvr"
+  repo_name: "betterpasay"
+  socials: []
+  status: "🔵 Planned"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@slvdrvncntjvr](https://github.com/slvdrvncntjvr)"
