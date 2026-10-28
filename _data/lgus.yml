@@ -1145,6 +1145,16 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@baeyacorpuz](https://github.com/baeyacorpuz)"
+- name: "City of San Fernando, La Union"
+  domain: "[bettersanfernando.pages.dev](https://bettersanfernando.pages.dev/)"
+  repo: "[GitHub](https://github.com/alvindemesadev/better-san-fernando-lu)"
+  repo_owner: "alvindemesadev"
+  repo_name: "better-san-fernando-lu"
+  socials: []
+  status: "🟢 Active"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@alvindemesadev](https://github.com/alvindemesadev)"
 - name: "Minalabac, Camarines Sur"
   domain: "-"
   repo: "-"
