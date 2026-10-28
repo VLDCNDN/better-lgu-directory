@@ -1339,6 +1339,19 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@regzimarx](https://github.com/regzimarx)"
+- name: "Malinao, Albay"
+  domain: "-"
+  repo: "[GitHub](https://github.com/bettermalinao/bettermalinao)"
+  repo_owner: "bettermalinao"
+  repo_name: "bettermalinao"
+  socials:
+    - platform: "facebook"
+      label: "Facebook"
+      url: "https://www.facebook.com/bettermalinao.org"
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@rcbalingbing](https://github.com/rcbalingbing)"
 - name: "Marawi City, Lanao del Sur"
   domain: "-"
   repo: "[GitHub](https://github.com/mamangcao/bettermarawi)"
