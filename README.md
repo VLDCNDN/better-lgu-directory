@@ -140,6 +140,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Dipolog City, Zamboanga del Norte   | -                                                             | [GitHub](https://github.com/z1on3/betterdipolog)                               | -                                                                                                                                                           | 🟡 Work in Progress    | [@z1on3](https://github.com/z1on3)                                                                                               |
 | Plaridel, Bulacan | [betterplaridel-two.vercel.app](https://betterplaridel-two.vercel.app/) | [GitHub](https://github.com/kai-dev00/betterplaridel) | - | 🟡 Work in Progress | [@kai-dev00](https://github.com/kai-dev00), [@Ephraim-ed](https://github.com/Ephraim-ed), [@laconic-xtian](https://github.com/laconic-xtian)   |
 | Hermosa, Bataan | [betterhermosa.org](https://betterhermosa.org) | [GitHub](https://github.com/BetterHermosa/betterhermosa) | - | 🟢 Active | [@ialexies](https://github.com/ialexies) |
+| Ramon, Isabela | [betterramon.pages.dev](https://betterramon.pages.dev) | [GitHub](https://github.com/spncrruiz-alt/betterramon) | - | 🟡 Work in Progress | [@spncrruiz-alt](https://github.com/spncrruiz-alt) |
 
 <!-- SYNC_LGU_TABLE_END -->
 
