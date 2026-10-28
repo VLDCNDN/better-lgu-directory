@@ -1379,3 +1379,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@kai-dev00](https://github.com/kai-dev00), [@Ephraim-ed](https://github.com/Ephraim-ed), [@laconic-xtian](https://github.com/laconic-xtian)"
+- name: "Hermosa, Bataan"
+  domain: "[betterhermosa.org](https://betterhermosa.org)"
+  repo: "[GitHub](https://github.com/BetterHermosa/betterhermosa)"
+  repo_owner: "BetterHermosa"
+  repo_name: "betterhermosa"
+  socials: []
+  status: "🟢 Active"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@ialexies](https://github.com/ialexies)"
