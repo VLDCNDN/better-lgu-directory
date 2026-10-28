@@ -591,11 +591,14 @@
   open_for_adoption: false
   maintainer: "[@SaraGugmaKo](https://github.com/SaraGugmaKo)"
 - name: "Bayawan, Negros Oriental"
-  domain: "[betterbayawan.vercel.app](https://betterbayawan.vercel.app/)"
+  domain: "[betterbayawan.org](https://betterbayawan.org/)"
   repo: "[GitHub](https://github.com/rodneydelacruz/betterbayawan)"
   repo_owner: "rodneydelacruz"
   repo_name: "betterbayawan"
-  socials: []
+  socials:
+    - platform: "facebook"
+      label: "Facebook"
+      url: "https://www.facebook.com/share/1CweyjBq9w/"
   status: "🟢 Active"
   stale: false
   open_for_adoption: false
