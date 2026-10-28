@@ -331,12 +331,15 @@
   open_for_adoption: false
   maintainer: "[@s4burieru](https://github.com/s4burieru)"
 - name: "Puerto Princesa City, Palawan"
-  domain: "-"
+  domain: "[betterpuertoprincesa.org](https://betterpuertoprincesa.org)"
   repo: "[GitHub](https://github.com/hmcldryl/betterpuertoprincesa)"
   repo_owner: "hmcldryl"
   repo_name: "betterpuertoprincesa"
-  socials: []
-  status: "🟡 Work in Progress"
+  socials:
+    - platform: "facebook"
+      label: "Facebook"
+      url: "https://www.facebook.com/betterpuertoprincesa"
+  status: "🟢 Active"
   stale: false
   open_for_adoption: false
   maintainer: "[@kelxety](https://github.com/kelxety), [@hmcldryl](https://github.com/hmcldryl), [@atualariao](https://github.com/atualariao)"
