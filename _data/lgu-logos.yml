@@ -5,7 +5,7 @@
   source: "rel-icon-svg"
   px: "vector"
   bytes: 3971
-  order_key: "0042"
+  order_key: "0043"
   shuffle_key: "0016"
 - name: "Bacolod City, Negros Occidental"
   domain: "betterbacolod.org"
@@ -23,7 +23,7 @@
   source: "rel-icon-svg"
   px: "vector"
   bytes: 63170
-  order_key: "0046"
+  order_key: "0047"
   shuffle_key: "0015"
 - name: "Ormoc City, Leyte"
   domain: "betterormoc.org"
@@ -42,7 +42,7 @@
   px: "vector"
   bytes: 1078872
   order_key: "0031"
-  shuffle_key: "0044"
+  shuffle_key: "0045"
 - name: "Las Piñas City, Metro Manila"
   domain: "betterlaspinas.org"
   file: "betterlaspinas.org.svg"
@@ -86,7 +86,7 @@
   source: "rel-icon"
   px: "630"
   bytes: 541251
-  order_key: "0043"
+  order_key: "0044"
   shuffle_key: "0014"
 - name: "Cabuyao City, Laguna"
   domain: "bettercabuyao.org"
@@ -95,7 +95,7 @@
   source: "rel-icon-svg"
   px: "317"
   bytes: 137916
-  order_key: "0047"
+  order_key: "0048"
   shuffle_key: "0003"
 - name: "Allen, Northern Samar"
   domain: "betterallen.org"
@@ -113,7 +113,7 @@
   source: "rel-icon"
   px: "1000"
   bytes: 168890
-  order_key: "0041"
+  order_key: "0042"
   shuffle_key: "0009"
 - name: "Lal-lo, Cagayan Valley"
   domain: "betterlallo.org"
@@ -122,7 +122,7 @@
   source: "manifest"
   px: "512"
   bytes: 350453
-  order_key: "0039"
+  order_key: "0040"
   shuffle_key: "0022"
 - name: "San Pablo, Laguna"
   domain: "bettersanpablo.org"
@@ -150,7 +150,7 @@
   px: "3264"
   bytes: 658852
   order_key: "0021"
-  shuffle_key: "0047"
+  shuffle_key: "0048"
 - name: "Puerto Princesa City, Palawan"
   domain: "betterpuertoprincesa.org"
   file: "betterpuertoprincesa.org.svg"
@@ -203,8 +203,8 @@
   source: "rel-icon"
   px: "2000"
   bytes: 235050
-  order_key: "0045"
-  shuffle_key: "0042"
+  order_key: "0046"
+  shuffle_key: "0043"
 - name: "Mapandan, Pangasinan"
   domain: "bettermapandan.org"
   file: "bettermapandan.org.png"
@@ -222,7 +222,7 @@
   px: "1254"
   bytes: 969215
   order_key: "0019"
-  shuffle_key: "0045"
+  shuffle_key: "0046"
 - name: "Bacoor City, Cavite"
   domain: "betterbacoor.org"
   file: "betterbacoor.org.svg"
@@ -258,7 +258,7 @@
   px: "vector"
   bytes: 11664
   order_key: "0004"
-  shuffle_key: "0040"
+  shuffle_key: "0041"
 - name: "Calapan, Oriental Mindoro"
   domain: "bettercalapan.org"
   file: "bettercalapan.org.png"
@@ -275,7 +275,7 @@
   source: "rel-icon-svg"
   px: "vector"
   bytes: 1452
-  order_key: "0037"
+  order_key: "0038"
   shuffle_key: "0023"
 - name: "Aborlan, Palawan"
   domain: "betteraborlan.org"
@@ -294,7 +294,7 @@
   px: "vector"
   bytes: 602
   order_key: "0018"
-  shuffle_key: "0046"
+  shuffle_key: "0047"
 - name: "Cavite City, Cavite"
   domain: "bettercavitecity.org"
   file: "bettercavitecity.org.png"
@@ -303,7 +303,7 @@
   px: "192"
   bytes: 16275
   order_key: "0003"
-  shuffle_key: "0043"
+  shuffle_key: "0044"
 - name: "Aklan Province"
   domain: "betteraklan.org"
   file: "betteraklan.org.png"
@@ -347,7 +347,7 @@
   source: "rel-icon-svg"
   px: "vector"
   bytes: 519
-  order_key: "0038"
+  order_key: "0039"
   shuffle_key: "0026"
 - name: "Baguio City, Benguet"
   domain: "betterbaguio.org"
@@ -356,7 +356,7 @@
   source: "rel-icon"
   px: "512"
   bytes: 151638
-  order_key: "0044"
+  order_key: "0045"
   shuffle_key: "0013"
 - name: "Trece Martires City, Cavite"
   domain: "bettertrecemartires.org"
@@ -383,7 +383,7 @@
   source: "rel-icon"
   px: "512"
   bytes: 188796
-  order_key: "0040"
+  order_key: "0041"
   shuffle_key: "0038"
 - name: "Makati City, Metro Manila"
   domain: "bettermakati.org"
@@ -393,7 +393,7 @@
   px: "vector"
   bytes: 2566
   order_key: "0030"
-  shuffle_key: "0041"
+  shuffle_key: "0042"
 - name: "San Carlos City, Pangasinan"
   domain: "bettersancarlos.vercel.app"
   file: "bettersancarlos.vercel.app.svg"
@@ -430,3 +430,12 @@
   bytes: 27188
   order_key: "0035"
   shuffle_key: "0017"
+- name: "Lapu Lapu City, Cebu"
+  domain: "betterlapulapu.org"
+  file: "betterlapulapu.org.svg"
+  ext: "svg"
+  source: "rel-icon-svg"
+  px: "vector"
+  bytes: 21167
+  order_key: "0037"
+  shuffle_key: "0040"

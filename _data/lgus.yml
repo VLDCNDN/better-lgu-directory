@@ -1336,3 +1336,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@mamangcao](https://github.com/mamangcao)"
+- name: "Lapu Lapu City, Cebu"
+  domain: "[betterlapulapu.org](https://betterlapulapu.org)"
+  repo: "[GitHub](https://github.com/BetterLapuLapu/betterlapulapu)"
+  repo_owner: "BetterLapuLapu"
+  repo_name: "betterlapulapu"
+  socials: []
+  status: "🟢 Active"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@iyanski](https://github.com/iyanski)"
