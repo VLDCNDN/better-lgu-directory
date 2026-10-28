@@ -38,6 +38,16 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@xpall](https://github.com/xpall)"
+- name: "Cavinti, Laguna"
+  domain: "-"
+  repo: "[GitHub](https://github.com/klnwlks/bettercavinti)"
+  repo_owner: "klnwlks"
+  repo_name: "bettercavinti"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@klnwlks](https://github.com/klnwlks)"
 - name: "Pila, Laguna"
   domain: "-"
   repo: "[GitHub](https://github.com/Necookie/betterpila)"
