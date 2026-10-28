@@ -1402,3 +1402,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@spncrruiz-alt](https://github.com/spncrruiz-alt)"
+- name: "Talibon, Bohol"
+  domain: "-"
+  repo: "[GitHub](https://github.com/jessie-melendres/bettertalibon)"
+  repo_owner: "jessie-melendres"
+  repo_name: "bettertalibon"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@jessie-melendres](https://github.com/jessie-melendres)"
