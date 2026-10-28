@@ -141,6 +141,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Plaridel, Bulacan | [betterplaridel-two.vercel.app](https://betterplaridel-two.vercel.app/) | [GitHub](https://github.com/kai-dev00/betterplaridel) | - | 🟡 Work in Progress | [@kai-dev00](https://github.com/kai-dev00), [@Ephraim-ed](https://github.com/Ephraim-ed), [@laconic-xtian](https://github.com/laconic-xtian)   |
 | Hermosa, Bataan | [betterhermosa.org](https://betterhermosa.org) | [GitHub](https://github.com/BetterHermosa/betterhermosa) | - | 🟢 Active | [@ialexies](https://github.com/ialexies) |
 | Ramon, Isabela | [betterramon.pages.dev](https://betterramon.pages.dev) | [GitHub](https://github.com/spncrruiz-alt/betterramon) | - | 🟡 Work in Progress | [@spncrruiz-alt](https://github.com/spncrruiz-alt) |
+| Talibon, Bohol       | -                                                             | [GitHub](https://github.com/jessie-melendres/bettertalibon)                    | -                                                                          |  🟡 Work in Progress           | [@jessie-melendres](https://github.com/jessie-melendres)                                                                               |
 
 <!-- SYNC_LGU_TABLE_END -->
 
