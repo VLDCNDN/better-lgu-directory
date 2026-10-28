@@ -460,9 +460,9 @@
   repo: "-"
   socials: []
   status: "🔵 Planned"
-  stale: true
-  open_for_adoption: true
-  maintainer: "[@dardeejay](https://github.com/dardeejay)"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@villenaderic](https://github.com/villenaderic)"
 - name: "Calamba, Laguna"
   domain: "-"
   repo: "[GitHub](https://github.com/apajuan/bettercalamba)"
