@@ -146,6 +146,7 @@ A community-maintained directory of **Better LGU** digital transparency portals 
 | Ramon, Isabela | [betterramon.pages.dev](https://betterramon.pages.dev) | [GitHub](https://github.com/spncrruiz-alt/betterramon) | - | 🟡 Work in Progress | [@spncrruiz-alt](https://github.com/spncrruiz-alt) |
 | Talibon, Bohol       | -                                                             | [GitHub](https://github.com/jessie-melendres/bettertalibon)                    | -                                                                          |  🟡 Work in Progress           | [@jessie-melendres](https://github.com/jessie-melendres)                                                                               |
 | Tampakan, South Cotabato | - | [GitHub](https://github.com/jamez78/bettertampakan) | - | 🟡 Work in Progress | [@jamez78](https://github.com/jamez78) |
+| Pasay City, Metro Manila            | -                                                             | [GitHub](https://github.com/slvdrvncntjvr/betterpasay)                              | -                                                                                                                                                           | 🔵 Planned             | [@slvdrvncntjvr](https://github.com/slvdrvncntjvr)                                                                               |
 
 <!-- SYNC_LGU_TABLE_END -->
 
