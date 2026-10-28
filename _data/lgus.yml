@@ -1346,3 +1346,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@iyanski](https://github.com/iyanski)"
+- name: "Dipolog City, Zamboanga del Norte"
+  domain: "-"
+  repo: "[GitHub](https://github.com/z1on3/betterdipolog)"
+  repo_owner: "z1on3"
+  repo_name: "betterdipolog"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@z1on3](https://github.com/z1on3)"
