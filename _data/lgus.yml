@@ -570,6 +570,16 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@jadolation](https://github.com/jadolation), [@Gel81](https://github.com/Gel81)"
+- name: "Basista, Pangasinan"
+  domain: "-"
+  repo: "[GitHub](https://github.com/jadolation/betterbasista)"
+  repo_owner: "jadolation"
+  repo_name: "betterbasista"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@jadolation](https://github.com/jadolation)"
 - name: "Taguig City, Metro Manila"
   domain: "-"
   repo: "[GitHub](https://github.com/plvzfq-rit/bettertaguig)"
