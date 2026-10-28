@@ -1435,3 +1435,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@jessie-melendres](https://github.com/jessie-melendres)"
+- name: "Tampakan, South Cotabato"
+  domain: "-"
+  repo: "[GitHub](https://github.com/jamez78/bettertampakan)"
+  repo_owner: "jamez78"
+  repo_name: "bettertampakan"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@jamez78](https://github.com/jamez78)"
