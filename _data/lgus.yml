@@ -1369,3 +1369,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@z1on3](https://github.com/z1on3)"
+- name: "Plaridel, Bulacan"
+  domain: "[betterplaridel-two.vercel.app](https://betterplaridel-two.vercel.app/)"
+  repo: "[GitHub](https://github.com/kai-dev00/betterplaridel)"
+  repo_owner: "kai-dev00"
+  repo_name: "betterplaridel"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@kai-dev00](https://github.com/kai-dev00), [@Ephraim-ed](https://github.com/Ephraim-ed), [@laconic-xtian](https://github.com/laconic-xtian)"
